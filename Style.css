@@ -1,0 +1,16 @@
+.red
+{
+    background: rgb(3, 71, 3);
+    height: 30px;
+    color: white;
+}
+.yello
+{
+    background: rgb(220, 13, 13);
+    color: white;
+}
+.yehoo
+{
+    background: yellowgreen;
+    color: black;
+}
